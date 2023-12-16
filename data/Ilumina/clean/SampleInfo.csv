@@ -1,0 +1,57 @@
+Sample ID,Sample collection date,City of birth,City of residence 1,Age,Clinical status,Smoker,Alcohol intake,Caffeine (mg/day),Radiation exposure,Chemical exposure,Diseases,Antibiotics (last month)
+UAB 17001,2017-07-25,Malaga,[IB] Alcudia,40,Infertile,0.0,Sporadic,388.0,0,0,None,None
+UAB 17002,2017-07-12,[IB] Palma,[IB] Palma,42,Infertile,0.0,Frequent,156.0,0,0,None,None
+UAB 17003,2017-07-21,[VAL] València,[IB] Palma,38,Infertile,,,,1,1,None,Yes
+UAB 17004,2017-08-21,[Bulgària] Sliven,[IB] Campos,48,Infertile,,,,0,0,None,None
+UAB 17005,2017-08-21,Barcelona,[IB] Palma,39,Infertile,0.0,Never,0.0,0,0,None,None
+UAB 17006,2017-08-23,[IB] Palma,[IB] Palma,40,Infertile,,,,0,0,None,Yes
+UAB 17007,2017-08-23,[IB] Calvia,Barcelona,34,Infertile,1.0,Sporadic,464.0,0,0,Asthma,None
+UAB 17008,2017-10-06,[Val] Carcer,[IB] Palma,47,Infertile,1.0,Sporadic,369.0,0,0,Congenital heart disease,None
+UAB 17009,2017-10-10,[Alemania] Braunlingen,[IB] Palma,46,Infertile,1.0,Sporadic,268.0,0,1,"Asthma, hiatal hernia",None
+UAB 17010,2017-10-10,[Alemania] Geldern,[IB] Alcudia,38,Infertile,1.0,Frequent,268.0,0,0,None,
+UAB 17012,2017-11-16,Soria,[IB] Palma,40,Infertile,0.0,Frequent,348.0,0,0,None,None
+UAB 17013,2017-11-13,[IB] Palma,[IB] Paguera,40,Infertile,0.0,Frequent,355.0,0,0,None,Yes
+UAB 17014,2017-11-14,[IB] Alcúdia,[IB] Palma,45,Infertile,0.0,Sporadic,384.0,0,0,None,Yes
+UAB 17015,2017-11-27,[IB] Palma,[IB] Llucmajor,41,Infertile,0.0,Sporadic,116.0,0,0,None,None
+UAB 17016,2017-11-28,[IB] Palma,[IB] Palma,39,Infertile,0.0,Frequent,384.0,0,0,"Bladder polyp, kidney stone",None
+UAB 17017,2017-11-28,[Colombia] Toro Valle,[IB] Santanyí,46,Infertile,0.0,Frequent,348.0,0,0,Disc hernia,None
+UAB 17018,2017-12-13,Madrid,[IB] Palma,34,Infertile,0.0,Sporadic,123.0,0,0,None,None
+UAB 17019,2017-12-13,[IB] Palma,[IB] Palma,47,Infertile,0.0,Sporadic,123.0,0,0,None,Yes
+UAB 17020,2017-12-18,Barcelona,[IB] Vilafranca de Bonany,38,Infertile,0.0,Sporadic,572.0,0,0,Inguinal hernia,Yes
+UAB 17021,2017-12-18,[IB] Palma,[IB] Marratxí,36,Infertile,,,,0,0,None,None
+UAB 17022,2017-12-20,[IB] Sa Colònia de St. Jordi,[IB] Palma,36,Infertile,,,,0,1,None,None
+UAB 18001,2018-01-08,[IB] Palma,[IB] Palma,41,Infertile,0.0,Frequent,239.0,0,0,None,Yes
+UAB 18002,2018-01-09,[IB] Palma,[IB] Portocolom,39,Infertile,0.0,Sporadic,47.0,0,0,Hyperthyroidism,None
+UAB 18003,2018-01-19,Madrid,[IB] Palma,40,Infertile,0.0,Frequent,7.0,0,0,Circadian rhythm alteration,None
+UAB 18004,2018-02-05,Barcelona,[IB] Manacor,37,Infertile,0.0,Sporadic,123.0,0,0,None,None
+UAB 18005,2018-01-23,[IB] Manacor,[Val] Torrevieja,40,Infertile,1.0,Never,456.0,0,0,None,None
+UAB 18006,2018-02-02,[IB] Palma,[IB] Andratx,42,Infertile,0.0,Sporadic,464.0,0,0,Urethral stenosis,None
+UAB 18007,2018-02-05,[IB] Sta Maria del Camino,[IB] Sta Maria del Camino,39,Infertile,0.0,Frequent,14.0,0,0,None,None
+UAB 18008,2018-02-06,[IB] Palma,[IB] Palma,43,Infertile,0.0,Sporadic,471.0,0,0,Hyperthyroidism,None
+UAB 18009,2018-02-07,[IB] Palma,[IB] Palma,26,Infertile,0.0,Sporadic,196.0,0,0,None,Yes
+UAB 18010,2018-02-09,[Gra] Deifontes,[IB] Marratxí,42,Infertile,0.0,Frequent,420.0,0,1,None,None
+UAB 18011,2018-02-12,[IB] Palma,[IB] Palma,39,Infertile,0.0,Sporadic,152.0,0,0,None,None
+UAB 18012,2018-02-15,[IB] Palma,[IB] Palma,37,Infertile,0.0,Frequent,116.0,1,0,None,Yes
+UAB 18013,2018-02-23,[IB] Pollença,[IB] Pollença,41,Infertile,0.0,Sporadic,7.0,0,0,None,None
+UAB 18014,2018-03-06,[IB] Palma,[IB] Palma,28,Infertile,0.0,Never,171.0,0,1,Fístula,Yes
+UAB 18015,2018-03-20,[IB] Palma,[IB] Palma,46,Infertile,0.0,Never,348.0,0,0,None,None
+UAB 18016,2018-03-22,[IB] Consell,[IB] Consell,37,Infertile,0.0,Frequent,239.0,0,0,None,None
+UAB 18017,2018-03-22,[IB] Sta Eugènia,[IB] Sta Eugènia,41,Infertile,0.0,Sporadic,348.0,0,1,None,None
+UAB 18018,2018-03-26,[IB] Pollença,[IB] Pollença,37,Infertile,0.0,Never,108.0,0,0,None,None
+UAB 18019,2018-03-27,[Bulgària] Teteven,[IB] Palma,47,Infertile,1.0,Frequent,0.0,0,0,Hypertension,None
+UAB 18020,2018-08-28,[IB] Palma,[IB] Andratx,32,Infertile,0.0,Never,36.0,0,0,None,None
+UAB 18021,2018-04-01,[Perú] Lima,[IB] Cala d'Or,36,Infertile,0.0,Never,0.0,0,0,Vas deferens cysts,None
+CON 01,2019-05-22,Santa Coloma de Gramenet,Santa Coloma de Gramenet,27,Donor,0.0,Sporadic,0.0,0,0,None,None
+CON 02,2019-05-31,Santa Coloma de Gramenet,Santa Coloma de Gramenet,32,Donor,0.0,Sporadic,40.0,0,0,None,None
+CON 03,2019-06-11,Santa Coloma de Gramenet,Santa Coloma de Gramenet,41,Donor,0.0,Never,7.0,0,0,None,None
+CON 04,2019-07-08,Barcelona,Sant Adrià del Besos,27,Donor,0.0,Sporadic,464.0,0,0,None,None
+CON 05,2019-07-09,Prat del Llobregat,Premià de Mar,26,Donor,0.0,Sporadic,116.0,0,0,Inguinal bacterial infection,None
+CON 06,2019-07-10,Barcelona,Santa Coloma de Gramenet,27,Donor,0.0,Frequent,188.0,0,0,None,Yes
+CON 07,2019-07-13,Santa Coloma de Gramenet,Santa Coloma de Gramenet,27,Donor,0.0,Never,159.0,0,0,None,None
+CON 08,2019-07-16,Santa Coloma de Gramenet,Santa Coloma de Gramenet,33,Donor (proven fertility),0.0,Sporadic,159.0,0,0,None,None
+CON 09,2019-07-25,La Pobla de Lillet,Barcelona,48,Donor (proven fertility),0.0,Sporadic,239.0,0,0,Barret's esophagus,None
+CON 10,2019-07-25,Barcelona,Santa Coloma de Gramenet,25,Donor,0.0,Frequent,232.0,0,0,None,Yes
+CON 11,2019-12-12,Barcelona,Montornès del Vallès,37,Donor (proven fertility),0.0,Frequent,55.0,0,0,None,None
+CON 12,2020-02-04,Barcelona,Sant Cugat del Vallés,32,Donor (proven fertility),0.0,Sporadic,239.0,0,0,None,None
+CON 13,2020-02-16,Malaga,Sant Cugat del Vallés,40,Donor (proven fertility),0.0,Never,464.0,0,0,None,None
+CON 14,2020-12-09,Barcelona,Sant Cugat del Vallés,30,Donor (proven fertility),1.0,Frequent,239.0,0,0,None,None

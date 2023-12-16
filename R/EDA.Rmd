@@ -1,0 +1,52 @@
+---
+title: "EDA"
+author: "Manuel Rojas Reyes and Kleber Enrique Reyes Illescas"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r loading libraries, include=FALSE}
+library(psych)
+library(corrplot)
+library(car)
+```
+
+```{r}
+data_path = '../data/Ilumina/clean/'
+```
+
+# EDA
+
+```{r}
+SampleInfo = read.csv(paste(data_path, 'SampleInfo.csv', sep=""))
+SpermQuality = read.csv(paste(data_path, 'SpermQuality.csv', sep=""))
+
+IluminaPylum = read.csv(paste(data_path, 'IluminaPylum.csv', sep=""))
+IluminaFamily = read.csv(paste(data_path, 'IluminaFamily.csv', sep=""))
+IluminaGenus = read.csv(paste(data_path, 'IluminaGenus.csv', sep=""))
+
+#IluminaPylum = read.csv('../data/Ilumina/clean/IluminaPylum.csv')
+#IluminaPylum = read.csv('../data/Ilumina/clean/IluminaPylum.csv')
+#IluminaPylum = read.csv('../data/Ilumina/clean/IluminaPylum.csv')
+
+
+```
+
+```{r}
+IluminaPylum$Fertil = as.logical(IluminaPylum$Fertil)
+IluminaFamily$Fertil = as.logical(IluminaFamily$Fertil)
+IluminaGenus$Fertil = as.logical(IluminaGenus$Fertil)
+```
+
+```{r}
+```
+
+
+
+
