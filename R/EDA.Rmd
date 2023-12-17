@@ -45,6 +45,7 @@ IluminaGenus$Fertil = as.logical(IluminaGenus$Fertil)
 ```
 
 ```{r}
+hist(IluminaPylum$Synergistetes)
 ```
 
 
